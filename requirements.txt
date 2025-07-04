@@ -3,5 +3,7 @@ Flask-CORS==4.0.0
 Pillow==10.4.0
 gunicorn==21.2.0
 requests==2.31.0
-opencv-python==4.8.1.78
-numpy==1.24.3
+opencv-python-headless==4.10.0.84
+numpy==1.26.4
+setuptools==75.6.0
+wheel==0.45.1
